@@ -10,11 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet var messageLabel: UILabel
-    @IBOutlet var nameLabel: UILabel
-    @IBOutlet var enterNameTextField: UITextField
-    @IBOutlet var enterAMessageTextField: UITextField
-    @IBOutlet var mailButton: UIButton
+    @IBOutlet var messageLabel: UILabel!
+    @IBOutlet var nameLabel: UILabel!
+    @IBOutlet var enterNameTextField: UITextField!
+    @IBOutlet var enterAMessageTextField: UITextField!
+    @IBOutlet var mailButton: UIButton!
     
     override func viewDidLoad() {
         super.viewDidLoad()
