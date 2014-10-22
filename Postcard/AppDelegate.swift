@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Postcard
 //
-//  Created by Eliot Arntz on 6/24/14.
-//  Copyright (c) 2014 Bitfountain.io. All rights reserved.
+//  Created by Rian Rainey.
+//  Copyright (c) 2014 Rian.me. All rights reserved.
 //
 
 import UIKit
